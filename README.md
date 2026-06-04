@@ -1,4 +1,4 @@
-# -Windows-User-Account-Management-Lab#
+# -Windows-User-Account-Management-Lab
 
 ## Objective
 
